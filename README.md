@@ -1,3 +1,4 @@
 # animated-shoes-website
 
-image{https://github.com/govind-parmar3/animated-shoes-website-main/blob/c4cba7d31916200a3ee4f55a8f4524eeb5d9bee3/Screenshot%20(24).png-alt}
+![Screenshot (24)](https://github.com/user-attachments/assets/24c4e935-d4ed-46d8-81b9-78ea90f748aa)
+![Screenshot (25)](https://github.com/user-attachments/assets/632371ad-9ebe-481b-940c-373c3d87177d)
